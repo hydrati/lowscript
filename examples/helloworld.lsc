@@ -1,0 +1,11 @@
+/*
+  LowScript
+
+  Data Types:
+  Number (f64), Function.
+*/
+
+
+fn main() {
+  print(1.25)
+}
